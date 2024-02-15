@@ -1,4 +1,3 @@
-# Mes_projets
 Dans l’apprentissage supervisé, la régression linéaire permet de prédire une variable cible
 continue (variable dépendante) grâce à une ou plusieurs variables explicatives (variables
 indépendantes ou prédictives). En d’autres termes, il s’agit d’établir les relations entre 2 ou
